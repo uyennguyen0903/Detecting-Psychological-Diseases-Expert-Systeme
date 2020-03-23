@@ -12,4 +12,4 @@ Similar to Depth First Search(DFS) and Breadth First Search(BFS) algorithms.
 4. The program will answer whether or not you're suffering any psychological problems. 
 
 ## Report
-The report and details description about the project are written in French 
+The report and detail description about the project are written in French 
